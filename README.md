@@ -3,7 +3,7 @@
 ## 🏥 Medicalib (France)  
 A healthcare startup simplifying home care and medical workflows.
 
-**Tech stack**: Vue 3, TypeScript, Nuxt, Pinia, Tailwind, Ionic
+**Tech stack**: Vue 3, TypeScript, Nuxt, Pinia, Tanstack, Tailwind, Ionic
 
 - **[medicalib.fr](https://medicalib.fr)** — main website for patients  
 - **[espacepro.medicalib.fr](https://espacepro.medicalib.fr)** — SPA portal for healthcare professionals  
