@@ -33,3 +33,4 @@ Live crypto price tracker built as a playground project.
 
 **Tech stack**: React, JavaScript  
 🔗 [hushdev.github.io/Crypto-Rates](https://hushdev.github.io/Crypto-Rates)
+👨‍💻 [Repository](https://github.com/hushdev/Crypto-Rates)
