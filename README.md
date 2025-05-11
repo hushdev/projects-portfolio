@@ -32,5 +32,12 @@ Corporate website for a hotel in Uzbekistan with booking system integration.
 Live crypto price tracker built as a playground project.
 
 **Tech stack**: React, JavaScript  
-🔗 [hushdev.github.io/Crypto-Rates](https://hushdev.github.io/Crypto-Rates)
+🔗 [hushdev.github.io/Crypto-Rates](https://hushdev.github.io/Crypto-Rates)  
 👨‍💻 [Repository](https://github.com/hushdev/Crypto-Rates)
+
+---
+
+## 🎥 Freelance & Pet Projects  
+A collection of old freelance and personal projects.
+
+🔗 [YouTube Playlist](https://www.youtube.com/playlist?list=PLSuoospWIf21ax_sP5eceIfvyXPFvBbd2)
