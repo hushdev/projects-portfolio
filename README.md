@@ -24,6 +24,7 @@ A healthcare startup simplifying home care and medical workflows.
 
 ## 🤖 MerlinFace  
 AI-powered social platform for face animation and social interaction.
+Сollection of popular LLM's in 1 subscription.
 
 **Tech stack**: Vue 2, JavaScript, Vuex, GraphQL  
 🔗 [merlinface.com](https://merlinface.com)
