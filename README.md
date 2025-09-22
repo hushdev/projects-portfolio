@@ -1,6 +1,6 @@
 # 💻 Projects Portfolio
 
-## 🏥 Toloka AI
+## 🤖 Toloka AI
 AI training data for smarter agents and models.
 
 **Tech stack**: React, TypeScript, MobX, Tailwind.
