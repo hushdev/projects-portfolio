@@ -1,6 +1,16 @@
 # 💻 Projects Portfolio
 
-## 🏥 Medicalib (France)  
+## 🏥 Toloka AI
+AI training data for smarter agents and models.
+
+**Tech stack**: React, TypeScript, MobX, Tailwind.
+
+- **[tendem.ai](https://tendem.ai/)** — product website
+- **[agent.tendem.ai](https://agent.tendem.ai/)** — AI + Human hybrid platform to get tasks done
+
+---
+
+## 🏥 Medicalib
 A healthcare startup simplifying home care and medical workflows.
 
 **Tech stack**: Vue 3, TypeScript, Nuxt, Pinia, Tanstack, Tailwind, Ionic
